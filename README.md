@@ -21,7 +21,6 @@ Containerized FastAPI services for ingesting, validating, and processing event d
 - Designed REST APIs and a persistent data model for event ingestion and analysis.
 - Added structured logging, automated tests, and GitHub Actions workflows for repeatable builds and deployments.
 
-<!-- Add the public repository and demo links here after the repository meets the quality checklist. -->
 
 ### Real-Time Flight Performance Monitoring
 
@@ -29,8 +28,6 @@ A distributed Apache Storm pipeline for processing simulated flight telemetry wi
 
 - Implemented parallel processing, stream routing, and aggregation components.
 - Analyzed throughput and latency under varying workloads.
-
-<!-- Add the public repository and benchmark links here after checking that all data is safe to publish. -->
 
 ### [Security Vulnerability Prediction Using ML and NLP](https://github.com/rezaV8/Predicting-Software-Vulnerability-Severity-Using-Machine-Learning-and-NLP-)
 
